@@ -1,9 +1,107 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Equipe Home Globo.com - Desenvolvedor
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Alexsandro de Oliveira Marques
+Solteiro, brasileiro, 26 anos.
+Rua Oitenta e Um, 78, Jardim Paulista
+Paulista – PE
+Tel.: (81) 9455-2187
+Email: alexoliveira.marques@gmail.com
+Blog: www.alexsandromarques.wordpress.com
+
+Apresentação
+Sou certificado ScrumMaster e Scrum Product Owner, tenho mais de cinco anos de experiência no desenvolvimento de aplicações Java para web, dois anos utilizando metodologias ágeis, estou me preparando para me tornar um CSP. 
+Possuo uma boa formação extracurricular, tenho conhecimentos em varias tecnologias como Flex, Hibernate, Struts, PostgreSQL, JSP, Wicket, Eclipse, NetBeans, conhecimentos em UML e Orientação a Objetos, Java Script, XML, CVS, Ajax, ferramentas de relatório como Birt e IReport entre outras, no momento estou estundando Groovy e Grails.
+
+Formação Acadêmica
+Cursei até o 4º período de ciência da computação na UNICAP (Universidade Católica de Pernambuco) e estou começando no próximo período no UNIBRATEC.
+
+Idiomas
+Inglês Instrumental Técnico – aprendizado autodidata e na UNICAP.
+
+Conhecimentos
+» Programação: JAVA, J2EE, J2ME, Flex, C, BREW, Delphi, Java Script.
+» Banco de dados: Postgres e Mysql.
+» Frameworks: Struts, Hibernate, Spring, Birt, IReport.
+» Servidor de aplicação / Container: TomCat.
+» Metodologias de Desenvolvimento: Scrum, Analise orientada a objetos.
+» Desenvolvimento Web: HTML, DHTML, XML, AJAX, JSP, Wicket.
+» Soluções / Ferramentas: Eclipse, Netbeans, CVS, Rose, Jude.
+
+Experiência Profissional
+Setembro de 2010 / Maio de 2011 - Pitang (CESAR)
+Cargo: Desenvolvedor
+
+Janeiro de 2010 / Março de 2010 - Pitang (CESAR)
+Cargo: Desenvolvedor
+
+Agosto 2009 / Dezembro de 2009 - Provider Soluções Tecnológicas
+Cargo: Coordenador de Projetos
+
+Fevereiro de 2007 / Julho de 2009 - Provider Soluções Tecnológicas
+Cargo: Líder de Projeto / Engenheiro de Software
+
+Janeiro de 2006 / Janeiro de 2007 – Provider Soluções Tecnológicas
+Cargo: Estagiário.
+
+Experiência Profissional (Extras)
+CITi - Centro Integrado de Tecnologia da Informação
+Instrutor de Scrum
+
+Ágiles 2009 - Segunda conferência latino-americana sobre metodologias ágeis
+Palestrante
+
+Qualiti
+Instrutor de Scrum
+
+Qualificação Profissional
+Curso Oficial Certified ScrumMaster – Scrum Alliance
+Aluno
+
+Curso Oficial Certified Scrum Product Owner - Scrum Alliance
+Aluno
+
+Curso Quality Assurance e Risk Management - SWQuality
+Aluno
+
+Introdução ao Scrum - Provider
+Aluno
+
+Curso de Introdução ao MPS.BR – Softex / Recife
+Aluno
+
+TDD – Um Curso Prático
+Congressista
+
+II Encontro Brasileiro de Testes de Software - Recife
+Congressista
+
+Curso Kit Desenvolvedor Dígitro Tecnologia
+Aluno
+
+SunTech Days 2006 – São Paulo
+Congressista
+
+Netbeans Days 2006 – São Paulo
+Congressista
+
+PEC Mobilidade – Programa Expresso de Capacitação CESAR - UNIBRATEC
+Linguagem C, BREW, J2ME Rup e Gerência de Configuração.
+
+JCP (Java Certified Programmer) - UNIBRATEC
+Curso preparatório para certificação programador Java.
+
+Java Básico - UNIBRATEC
+Java e JDBC.
+
+Java e Banco de Dados - UNICAP
+Java e JDBC.
+
+PEC Corporativo – Programa Expresso de Capacitação CESAR - UNIBRATEC
+Linguagem C, Java Web, Rup e Gerência de Configuração, Java Corporativo.
+
